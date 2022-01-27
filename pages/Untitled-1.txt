@@ -1,0 +1,11 @@
+
+--Extender Next.js
+    --Document // Primero renderiza todo el document qure contiene tdo el html
+        --App // El app es el que engloba nuestra aplicacion o lo que exportyamos de la carpeta pages
+            Nuestra Aplicacion/ Pages
+
+Formas de introducir CSS a el poryecto NextJS
+
+1-Global CSS (.css)
+2-Mosdule CSS (module.css)
+3-CSS-in-JS Styled JSX (NextJS - Vercel)
