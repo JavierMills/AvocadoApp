@@ -1,0 +1,53 @@
+{
+    "creditosPN31":[
+        
+    {
+        "Buc": "00153312",
+        "Credito": 5001103269,
+        "Sub_Product": 688761,
+        "Apert": "20-08-04",
+        "Venc": "2005-06-15",
+        "Cliente": "",
+        "Staus_c": "CANCEL",
+        "Moneda": "Peso Mexicano",
+        "Concedido": "3,700,000.00",
+        "Etiqueta": "",
+        "Tipo_Inter":"",
+        "Situacion": "No conciderado"
+       
+      },
+
+      {
+        "Buc": "00153312",
+        "Credito": 5001103269,
+        "Sub_Product": 688761,
+        "Apert": "20-08-04",
+        "Venc": "2005-06-15",
+        "Cliente": "",
+        "Staus_c": "CANCEL",
+        "Moneda": "Peso Mexicano",
+        "Concedido": "3,700,000.00",
+        "Etiqueta": "",
+        "Tipo_Inter":"",
+        "Situacion": "No conciderado"
+       
+      },
+      {
+        "Buc": "00153312",
+        "Credito": 5001103269,
+        "Sub_Product": 688761,
+        "Apert": "20-08-04",
+        "Venc": "2005-06-15",
+        "Cliente": "",
+        "Staus_c": "CANCEL",
+        "Moneda": "Peso Mexicano",
+        "Concedido": "3,700,000.00",
+        "Etiqueta": "",
+        "Tipo_Inter":"",
+        "Situacion": "No conciderado"
+       
+      }
+      
+  ]
+    
+  }
